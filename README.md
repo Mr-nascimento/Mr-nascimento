@@ -1,5 +1,5 @@
 ## Hey guys 
-My name is `Igor Nascimento`, I'm from BR, Welcome to my profile 😉.
+My name is `Igor Nascimento`, Welcome to my profile 😉.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nascimento&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
