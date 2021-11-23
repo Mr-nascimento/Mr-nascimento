@@ -9,6 +9,6 @@ My name is `Igor Nascimento`, Welcome to my profile 😉.<br>
 
 <div>
 
-  ![Snake animation](https://github.com/mr-nascimento/mr-nascimento/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Mr-nascimento/Mr-nascimento/blob/output/github-contribution-grid-snake.svg)
 
 </div>
