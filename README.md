@@ -1,6 +1,20 @@
 ## Hey guys 
 #### My name is `Igor Nascimento`, Welcome to my profile 😉.<br>
 
+```javascript
+setProfile({
+  name: "Igor Nascimento"
+  profession: ["DEV. FrontEndt", "Web. Design"]
+  stack: {
+  	frontend: [
+  		"ReactJS", "Bootstrap"
+  	],
+  	languages: [
+  		"PHP", "Type/Javascript", "SQL", "HTML", "CSS"
+  	]
+  }});
+```
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nascimento&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
