@@ -12,7 +12,8 @@ setProfile({
   	languages: [
   		"PHP", "Type/Javascript", "SQL", "HTML", "CSS"
   	]
-  }});
+  }
+});
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nascimento&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)<br>
