@@ -4,7 +4,7 @@
 ```javascript
 setProfile({
   name: "Igor Nascimento"
-  profession: ["DEV. FrontEndt", "Web. Design"]
+  profession: ["DEV. FrontEnd", "Web. Design"]
   stack: {
   	frontend: [
   		"ReactJS", "Bootstrap"
