@@ -10,7 +10,7 @@ setProfile({
   		"ReactJS", "Bootstrap"
   	],
   	languages: [
-  		"PHP", "Type/Javascript", "SQL", "HTML", "CSS"
+  		"PHP", "Type/Javascript", "SQL"
   	]
   }
 });
