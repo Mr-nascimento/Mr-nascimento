@@ -1,4 +1,4 @@
-## Hey guys 
+## Hello friend
 #### My name is `Igor Nascimento`, Welcome to my profile 😉.<br>
 
 ```javascript
