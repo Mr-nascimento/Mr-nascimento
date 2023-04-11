@@ -1,7 +1,7 @@
 ## Hello friend
 #### My name is `Igor Nascimento`, Welcome to my profile 😉.<br>
 
-```javascript
+```js
 setProfile({
   name: "Igor Nascimento"
   profession: ["DEV. FrontEnd", "Web. Design"]
