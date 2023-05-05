@@ -7,7 +7,7 @@ setProfile({
   profession: ["DEV. FrontEnd", "Web. Design"]
   stack: {
   	frontend: [
-          "ReactJS", "Bootstrap"
+          "ReactJS", "Angular"
   	],
   	languages: [
           "Type/Javascript", "SQL"
